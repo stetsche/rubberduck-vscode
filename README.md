@@ -86,7 +86,7 @@ Here is an example of a [drunken pirate describing your code](https://github.com
 
 ## Built With
 
-- [ModelFusion](https://modelfusion/dev) - AI library
+- [ModelFusion](https://modelfusion.dev) - AI library
 - [Prism.js](https://prismjs.com/) - Syntax highlighting
 - [React](https://reactjs.org/) - UI rendering
 

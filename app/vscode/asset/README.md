@@ -145,6 +145,6 @@ Understanding these concepts will help you get the most out of Rubberduck.
 
 # Built With
 
-- [ModelFusion](https://modelfusion/dev) - AI library
+- [ModelFusion](https://modelfusion.dev) - AI library
 - [Prism.js](https://prismjs.com/) - Syntax highlighting
 - [React](https://reactjs.org/) - UI rendering
